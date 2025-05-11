@@ -18,8 +18,11 @@
     "@vitejs/plugin-react-swc": "npm:@vitejs/plugin-react-swc@^3.8.0",
     "antd": "npm:antd@^5.15.0",
     "@ant-design/icons": "npm:@ant-design/icons@^5.3.0",
+    "antd/locale/ja_JP": "npm:antd@^5.15.0/lib/locale/ja_JP",
     "react": "npm:react@^19.0.0",
     "react-dom": "npm:react-dom@^19.0.0",
+    "uuid": "npm:uuid@^9.0.1",
+    "@types/uuid": "npm:@types/uuid@^9.0.8",
     "vite": "npm:vite@^6.1.1"
   }
 }
